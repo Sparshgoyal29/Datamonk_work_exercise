@@ -19,3 +19,4 @@ load_csv_to_sqlite("people_large.csv", "people_large.db", "people")
 
 # Jobs table for JOIN
 load_csv_to_sqlite("jobs_large.csv", "people_large.db", "jobs")
+
