@@ -1,0 +1,12 @@
+CREATE TABLE
+INSERT 0 3
+ id |   name    | power 
+----+-----------+-------
+  1 | Toaster   | 800W
+  2 | Vacuum    | 1200W
+  3 | Desk Lamp | 
+  4 | Toaster   | 800W
+  5 | Vacuum    | 1200W
+  6 | Desk Lamp | 
+(6 rows)
+

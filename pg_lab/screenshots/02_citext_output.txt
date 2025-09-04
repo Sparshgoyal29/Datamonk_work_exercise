@@ -1,0 +1,9 @@
+CREATE EXTENSION
+CREATE TABLE
+INSERT 0 3
+       email        | count 
+--------------------+-------
+ another@domain.com |     1
+ Test@Example.com   |     2
+(2 rows)
+
