@@ -1,0 +1,11 @@
+                                                   Table "public.test_pg"
+ Column |            Type             | Collation | Nullable | Default | Storage  | Compression | Stats target | Description 
+--------+-----------------------------+-----------+----------+---------+----------+-------------+--------------+-------------
+ id     | bigint                      |           | not null |         | plain    |             |              | 
+ ts     | timestamp without time zone |           |          |         | plain    |             |              | 
+ value  | double precision            |           |          |         | plain    |             |              | 
+ tag    | text                        |           |          |         | extended |             |              | 
+Indexes:
+    "test_pg_pkey" PRIMARY KEY, btree (id)
+Access method: heap
+
