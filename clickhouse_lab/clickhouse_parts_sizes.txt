@@ -1,1 +1,0 @@
-table_with_codec	12416945
