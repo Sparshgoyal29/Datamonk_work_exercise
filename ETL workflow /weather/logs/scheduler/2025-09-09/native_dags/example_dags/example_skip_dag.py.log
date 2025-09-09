@@ -1,0 +1,21 @@
+[2025-09-09T10:18:13.762+0530] {processor.py:161} INFO - Started process (PID=6256) to work on /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-09-09T10:18:13.763+0530] {processor.py:830} INFO - Processing file /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2025-09-09T10:18:13.766+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:18:13.766+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-09-09T10:18:13.797+0530] {processor.py:840} INFO - DAG(s) 'example_skip_dag' retrieved from /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-09-09T10:18:13.961+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:18:13.961+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-09T10:18:13.983+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:18:13.983+0530] {dag.py:3954} INFO - Setting next_dagrun for example_skip_dag to 2025-09-08 00:00:00+00:00, run_after=2025-09-09 00:00:00+00:00
+[2025-09-09T10:18:14.186+0530] {processor.py:183} INFO - Processing /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py took 0.432 seconds
+[2025-09-09T10:19:23.036+0530] {processor.py:161} INFO - Started process (PID=6337) to work on /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-09-09T10:19:23.049+0530] {processor.py:830} INFO - Processing file /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2025-09-09T10:19:23.052+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:19:23.051+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-09-09T10:19:23.062+0530] {processor.py:840} INFO - DAG(s) 'example_skip_dag' retrieved from /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-09-09T10:19:23.097+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:19:23.096+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-09T10:19:23.125+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:19:23.124+0530] {dag.py:3954} INFO - Setting next_dagrun for example_skip_dag to 2025-09-08 00:00:00+00:00, run_after=2025-09-09 00:00:00+00:00
+[2025-09-09T10:19:23.220+0530] {processor.py:183} INFO - Processing /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py took 0.191 seconds
+[2025-09-09T10:20:27.231+0530] {processor.py:161} INFO - Started process (PID=6412) to work on /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-09-09T10:20:27.232+0530] {processor.py:830} INFO - Processing file /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2025-09-09T10:20:27.234+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:20:27.234+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-09-09T10:20:27.244+0530] {processor.py:840} INFO - DAG(s) 'example_skip_dag' retrieved from /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-09-09T10:20:27.269+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:20:27.269+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-09T10:20:27.294+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:20:27.293+0530] {dag.py:3954} INFO - Setting next_dagrun for example_skip_dag to 2025-09-08 00:00:00+00:00, run_after=2025-09-09 00:00:00+00:00
+[2025-09-09T10:20:27.390+0530] {processor.py:183} INFO - Processing /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py took 0.167 seconds

@@ -1,0 +1,14 @@
+[2025-09-09T10:18:57.411+0530] {processor.py:161} INFO - Started process (PID=6305) to work on /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-09-09T10:18:57.412+0530] {processor.py:830} INFO - Processing file /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2025-09-09T10:18:57.414+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:18:57.414+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-09-09T10:18:57.447+0530] {processor.py:840} INFO - DAG(s) 'example_bash_operator' retrieved from /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-09-09T10:18:57.587+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:18:57.587+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-09T10:18:57.611+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:18:57.610+0530] {dag.py:3954} INFO - Setting next_dagrun for example_bash_operator to 2025-09-08 00:00:00+00:00, run_after=2025-09-09 00:00:00+00:00
+[2025-09-09T10:18:58.043+0530] {processor.py:183} INFO - Processing /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_bash_operator.py took 0.640 seconds
+[2025-09-09T10:20:06.011+0530] {processor.py:161} INFO - Started process (PID=6384) to work on /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-09-09T10:20:06.029+0530] {processor.py:830} INFO - Processing file /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2025-09-09T10:20:06.032+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:20:06.031+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-09-09T10:20:06.046+0530] {processor.py:840} INFO - DAG(s) 'example_bash_operator' retrieved from /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_bash_operator.py
+[2025-09-09T10:20:06.076+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:20:06.075+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-09T10:20:06.100+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:20:06.099+0530] {dag.py:3954} INFO - Setting next_dagrun for example_bash_operator to 2025-09-08 00:00:00+00:00, run_after=2025-09-09 00:00:00+00:00
+[2025-09-09T10:20:06.179+0530] {processor.py:183} INFO - Processing /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_bash_operator.py took 0.177 seconds

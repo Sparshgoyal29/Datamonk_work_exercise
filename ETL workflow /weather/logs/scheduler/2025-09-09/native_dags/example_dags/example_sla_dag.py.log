@@ -1,0 +1,21 @@
+[2025-09-09T10:18:11.754+0530] {processor.py:161} INFO - Started process (PID=6254) to work on /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-09-09T10:18:11.755+0530] {processor.py:830} INFO - Processing file /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-09-09T10:18:11.758+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:18:11.757+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-09-09T10:18:11.817+0530] {processor.py:840} INFO - DAG(s) 'example_sla_dag' retrieved from /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-09-09T10:18:11.955+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:18:11.954+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-09T10:18:11.991+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:18:11.991+0530] {dag.py:3954} INFO - Setting next_dagrun for example_sla_dag to 2025-09-09 04:46:00+00:00, run_after=2025-09-09 04:48:00+00:00
+[2025-09-09T10:18:12.354+0530] {processor.py:183} INFO - Processing /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.608 seconds
+[2025-09-09T10:19:21.763+0530] {processor.py:161} INFO - Started process (PID=6336) to work on /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-09-09T10:19:21.783+0530] {processor.py:830} INFO - Processing file /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-09-09T10:19:21.785+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:19:21.785+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-09-09T10:19:21.798+0530] {processor.py:840} INFO - DAG(s) 'example_sla_dag' retrieved from /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-09-09T10:19:21.820+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:19:21.820+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-09T10:19:21.848+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:19:21.847+0530] {dag.py:3954} INFO - Setting next_dagrun for example_sla_dag to 2025-09-09 04:46:00+00:00, run_after=2025-09-09 04:48:00+00:00
+[2025-09-09T10:19:21.935+0530] {processor.py:183} INFO - Processing /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.181 seconds
+[2025-09-09T10:20:26.301+0530] {processor.py:161} INFO - Started process (PID=6410) to work on /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-09-09T10:20:26.320+0530] {processor.py:830} INFO - Processing file /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-09-09T10:20:26.323+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:20:26.322+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-09-09T10:20:26.336+0530] {processor.py:840} INFO - DAG(s) 'example_sla_dag' retrieved from /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-09-09T10:20:26.359+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:20:26.358+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-09T10:20:26.386+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:20:26.385+0530] {dag.py:3954} INFO - Setting next_dagrun for example_sla_dag to 2025-09-09 04:48:00+00:00, run_after=2025-09-09 04:50:00+00:00
+[2025-09-09T10:20:26.491+0530] {processor.py:183} INFO - Processing /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_sla_dag.py took 0.198 seconds

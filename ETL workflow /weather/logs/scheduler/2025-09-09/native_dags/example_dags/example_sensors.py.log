@@ -1,0 +1,21 @@
+[2025-09-09T10:18:20.945+0530] {processor.py:161} INFO - Started process (PID=6264) to work on /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-09-09T10:18:20.946+0530] {processor.py:830} INFO - Processing file /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-09-09T10:18:20.948+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:18:20.948+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-09-09T10:18:20.979+0530] {processor.py:840} INFO - DAG(s) 'example_sensors' retrieved from /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-09-09T10:18:21.104+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:18:21.103+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-09T10:18:21.115+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:18:21.115+0530] {dag.py:3954} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-09-09T10:18:21.361+0530] {processor.py:183} INFO - Processing /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.424 seconds
+[2025-09-09T10:19:29.133+0530] {processor.py:161} INFO - Started process (PID=6345) to work on /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-09-09T10:19:29.140+0530] {processor.py:830} INFO - Processing file /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-09-09T10:19:29.143+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:19:29.142+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-09-09T10:19:29.156+0530] {processor.py:840} INFO - DAG(s) 'example_sensors' retrieved from /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-09-09T10:19:29.184+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:19:29.183+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-09T10:19:29.197+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:19:29.197+0530] {dag.py:3954} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-09-09T10:19:29.292+0530] {processor.py:183} INFO - Processing /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.167 seconds
+[2025-09-09T10:20:32.067+0530] {processor.py:161} INFO - Started process (PID=6417) to work on /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-09-09T10:20:32.078+0530] {processor.py:830} INFO - Processing file /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-09-09T10:20:32.080+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:20:32.080+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-09-09T10:20:32.095+0530] {processor.py:840} INFO - DAG(s) 'example_sensors' retrieved from /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2025-09-09T10:20:32.123+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:20:32.123+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-09T10:20:32.137+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:20:32.137+0530] {dag.py:3954} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-09-09T10:20:32.229+0530] {processor.py:183} INFO - Processing /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.171 seconds

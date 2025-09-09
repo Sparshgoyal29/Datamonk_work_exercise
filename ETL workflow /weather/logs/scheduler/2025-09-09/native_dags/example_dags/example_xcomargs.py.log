@@ -1,0 +1,24 @@
+[2025-09-09T10:17:54.881+0530] {processor.py:161} INFO - Started process (PID=6235) to work on /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-09-09T10:17:54.882+0530] {processor.py:830} INFO - Processing file /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2025-09-09T10:17:54.884+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:17:54.884+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-09-09T10:17:54.951+0530] {processor.py:840} INFO - DAG(s) 'example_xcom_args_with_operators', 'example_xcom_args' retrieved from /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-09-09T10:17:55.109+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:17:55.108+0530] {dag.py:3096} INFO - Sync 2 DAGs
+[2025-09-09T10:17:55.120+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:17:55.119+0530] {dag.py:3954} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2025-09-09T10:17:55.123+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:17:55.123+0530] {dag.py:3954} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2025-09-09T10:17:55.332+0530] {processor.py:183} INFO - Processing /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcomargs.py took 0.459 seconds
+[2025-09-09T10:19:11.084+0530] {processor.py:161} INFO - Started process (PID=6327) to work on /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-09-09T10:19:11.094+0530] {processor.py:830} INFO - Processing file /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2025-09-09T10:19:11.097+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:19:11.096+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-09-09T10:19:11.122+0530] {processor.py:840} INFO - DAG(s) 'example_xcom_args', 'example_xcom_args_with_operators' retrieved from /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-09-09T10:19:11.149+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:19:11.149+0530] {dag.py:3096} INFO - Sync 2 DAGs
+[2025-09-09T10:19:11.164+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:19:11.164+0530] {dag.py:3954} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2025-09-09T10:19:11.168+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:19:11.168+0530] {dag.py:3954} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2025-09-09T10:19:11.298+0530] {processor.py:183} INFO - Processing /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcomargs.py took 0.223 seconds
+[2025-09-09T10:20:16.950+0530] {processor.py:161} INFO - Started process (PID=6400) to work on /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-09-09T10:20:16.951+0530] {processor.py:830} INFO - Processing file /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2025-09-09T10:20:16.954+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:20:16.953+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-09-09T10:20:16.965+0530] {processor.py:840} INFO - DAG(s) 'example_xcom_args_with_operators', 'example_xcom_args' retrieved from /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-09-09T10:20:16.987+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:20:16.986+0530] {dag.py:3096} INFO - Sync 2 DAGs
+[2025-09-09T10:20:17.001+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:20:17.001+0530] {dag.py:3954} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2025-09-09T10:20:17.005+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:20:17.005+0530] {dag.py:3954} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2025-09-09T10:20:17.096+0530] {processor.py:183} INFO - Processing /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_xcomargs.py took 0.154 seconds

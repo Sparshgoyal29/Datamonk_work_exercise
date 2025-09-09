@@ -1,0 +1,21 @@
+[2025-09-09T10:18:28.798+0530] {processor.py:161} INFO - Started process (PID=6274) to work on /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-09T10:18:28.799+0530] {processor.py:830} INFO - Processing file /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-09-09T10:18:28.802+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:18:28.801+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-09T10:18:28.835+0530] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-09T10:18:29.029+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:18:29.029+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-09T10:18:29.042+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:18:29.041+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-09-09T10:18:29.177+0530] {processor.py:183} INFO - Processing /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.387 seconds
+[2025-09-09T10:19:35.016+0530] {processor.py:161} INFO - Started process (PID=6350) to work on /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-09T10:19:35.017+0530] {processor.py:830} INFO - Processing file /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-09-09T10:19:35.019+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:19:35.019+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-09T10:19:35.036+0530] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-09T10:19:35.094+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:19:35.094+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-09T10:19:35.109+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:19:35.108+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-09-09T10:19:35.203+0530] {processor.py:183} INFO - Processing /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.195 seconds
+[2025-09-09T10:20:38.414+0530] {processor.py:161} INFO - Started process (PID=6423) to work on /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-09T10:20:38.415+0530] {processor.py:830} INFO - Processing file /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py for tasks to queue
+[2025-09-09T10:20:38.417+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:20:38.417+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-09T10:20:38.434+0530] {processor.py:840} INFO - DAG(s) 'example_params_ui_tutorial' retrieved from /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py
+[2025-09-09T10:20:38.494+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:20:38.494+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-09T10:20:38.508+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:20:38.508+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_ui_tutorial to None, run_after=None
+[2025-09-09T10:20:38.603+0530] {processor.py:183} INFO - Processing /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_params_ui_tutorial.py took 0.198 seconds

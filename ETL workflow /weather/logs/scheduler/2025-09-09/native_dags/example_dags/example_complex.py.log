@@ -1,0 +1,14 @@
+[2025-09-09T10:18:47.990+0530] {processor.py:161} INFO - Started process (PID=6293) to work on /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-09-09T10:18:47.991+0530] {processor.py:830} INFO - Processing file /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-09-09T10:18:47.993+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:18:47.992+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-09-09T10:18:48.029+0530] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-09-09T10:18:48.167+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:18:48.166+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-09T10:18:48.178+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:18:48.178+0530] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-09-09T10:18:48.314+0530] {processor.py:183} INFO - Processing /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.333 seconds
+[2025-09-09T10:19:57.946+0530] {processor.py:161} INFO - Started process (PID=6375) to work on /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-09-09T10:19:57.959+0530] {processor.py:830} INFO - Processing file /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-09-09T10:19:57.962+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:19:57.961+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-09-09T10:19:57.977+0530] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2025-09-09T10:19:58.013+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:19:58.013+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-09T10:19:58.028+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:19:58.027+0530] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-09-09T10:19:58.112+0530] {processor.py:183} INFO - Processing /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.174 seconds

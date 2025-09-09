@@ -1,0 +1,21 @@
+[2025-09-09T10:17:31.081+0530] {processor.py:161} INFO - Started process (PID=6200) to work on /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-09-09T10:17:31.082+0530] {processor.py:830} INFO - Processing file /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-09-09T10:17:31.085+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:17:31.084+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-09-09T10:17:31.112+0530] {processor.py:840} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-09-09T10:17:33.796+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:17:33.795+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-09T10:17:35.370+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:17:35.369+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-09-09T10:17:36.392+0530] {processor.py:183} INFO - Processing /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py took 5.318 seconds
+[2025-09-09T10:19:07.504+0530] {processor.py:161} INFO - Started process (PID=6320) to work on /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-09-09T10:19:07.524+0530] {processor.py:830} INFO - Processing file /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-09-09T10:19:07.526+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:19:07.525+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-09-09T10:19:07.545+0530] {processor.py:840} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-09-09T10:19:07.564+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:19:07.564+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-09T10:19:07.579+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:19:07.579+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-09-09T10:19:07.667+0530] {processor.py:183} INFO - Processing /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.170 seconds
+[2025-09-09T10:20:13.009+0530] {processor.py:161} INFO - Started process (PID=6394) to work on /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-09-09T10:20:13.020+0530] {processor.py:830} INFO - Processing file /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2025-09-09T10:20:13.022+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:20:13.022+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-09-09T10:20:13.032+0530] {processor.py:840} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2025-09-09T10:20:13.052+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:20:13.052+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-09T10:20:13.067+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:20:13.066+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2025-09-09T10:20:13.170+0530] {processor.py:183} INFO - Processing /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.169 seconds

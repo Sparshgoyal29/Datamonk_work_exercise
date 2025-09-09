@@ -1,0 +1,14 @@
+[2025-09-09T10:18:30.360+0530] {processor.py:161} INFO - Started process (PID=6275) to work on /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-09-09T10:18:30.361+0530] {processor.py:830} INFO - Processing file /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-09-09T10:18:30.363+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:18:30.363+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-09-09T10:18:30.391+0530] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-09-09T10:18:30.565+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:18:30.564+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-09T10:18:30.576+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:18:30.576+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-09-09T10:18:30.706+0530] {processor.py:183} INFO - Processing /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.354 seconds
+[2025-09-09T10:19:42.891+0530] {processor.py:161} INFO - Started process (PID=6359) to work on /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-09-09T10:19:42.901+0530] {processor.py:830} INFO - Processing file /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2025-09-09T10:19:42.903+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:19:42.903+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-09-09T10:19:42.923+0530] {processor.py:840} INFO - DAG(s) 'example_params_trigger_ui' retrieved from /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2025-09-09T10:19:42.980+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:19:42.980+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-09T10:19:42.995+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:19:42.995+0530] {dag.py:3954} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2025-09-09T10:19:43.092+0530] {processor.py:183} INFO - Processing /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.208 seconds

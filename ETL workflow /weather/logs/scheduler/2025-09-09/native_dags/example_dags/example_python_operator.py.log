@@ -1,0 +1,24 @@
+[2025-09-09T10:18:24.246+0530] {processor.py:161} INFO - Started process (PID=6268) to work on /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_operator.py
+[2025-09-09T10:18:24.247+0530] {processor.py:830} INFO - Processing file /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2025-09-09T10:18:24.250+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:18:24.249+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_operator.py
+[2025-09-09T10:18:24.279+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:18:24.278+0530] {example_python_operator.py:93} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2025-09-09T10:18:24.279+0530] {processor.py:840} INFO - DAG(s) 'example_python_operator' retrieved from /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_operator.py
+[2025-09-09T10:18:24.428+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:18:24.428+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-09T10:18:24.439+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:18:24.439+0530] {dag.py:3954} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2025-09-09T10:18:24.829+0530] {processor.py:183} INFO - Processing /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_operator.py took 0.590 seconds
+[2025-09-09T10:19:31.136+0530] {processor.py:161} INFO - Started process (PID=6347) to work on /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_operator.py
+[2025-09-09T10:19:31.137+0530] {processor.py:830} INFO - Processing file /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2025-09-09T10:19:31.140+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:19:31.139+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_operator.py
+[2025-09-09T10:19:31.149+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:19:31.149+0530] {example_python_operator.py:93} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2025-09-09T10:19:31.150+0530] {processor.py:840} INFO - DAG(s) 'example_python_operator' retrieved from /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_operator.py
+[2025-09-09T10:19:31.172+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:19:31.172+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-09T10:19:31.186+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:19:31.186+0530] {dag.py:3954} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2025-09-09T10:19:31.286+0530] {processor.py:183} INFO - Processing /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_operator.py took 0.158 seconds
+[2025-09-09T10:20:34.429+0530] {processor.py:161} INFO - Started process (PID=6419) to work on /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_operator.py
+[2025-09-09T10:20:34.445+0530] {processor.py:830} INFO - Processing file /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2025-09-09T10:20:34.447+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:20:34.447+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_operator.py
+[2025-09-09T10:20:34.457+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:20:34.456+0530] {example_python_operator.py:93} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2025-09-09T10:20:34.458+0530] {processor.py:840} INFO - DAG(s) 'example_python_operator' retrieved from /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_operator.py
+[2025-09-09T10:20:34.482+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:20:34.482+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-09T10:20:34.497+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:20:34.497+0530] {dag.py:3954} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2025-09-09T10:20:34.597+0530] {processor.py:183} INFO - Processing /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_python_operator.py took 0.176 seconds

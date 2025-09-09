@@ -1,0 +1,21 @@
+[2025-09-09T10:18:08.622+0530] {processor.py:161} INFO - Started process (PID=6252) to work on /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2025-09-09T10:18:08.623+0530] {processor.py:830} INFO - Processing file /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-09-09T10:18:08.625+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:18:08.625+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2025-09-09T10:18:08.651+0530] {processor.py:840} INFO - DAG(s) 'example_task_group' retrieved from /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2025-09-09T10:18:08.785+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:18:08.784+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-09T10:18:08.805+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:18:08.805+0530] {dag.py:3954} INFO - Setting next_dagrun for example_task_group to 2025-09-08 00:00:00+00:00, run_after=2025-09-09 00:00:00+00:00
+[2025-09-09T10:18:09.076+0530] {processor.py:183} INFO - Processing /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py took 0.463 seconds
+[2025-09-09T10:19:18.994+0530] {processor.py:161} INFO - Started process (PID=6334) to work on /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2025-09-09T10:19:19.009+0530] {processor.py:830} INFO - Processing file /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-09-09T10:19:19.012+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:19:19.011+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2025-09-09T10:19:19.022+0530] {processor.py:840} INFO - DAG(s) 'example_task_group' retrieved from /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2025-09-09T10:19:19.048+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:19:19.048+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-09T10:19:19.074+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:19:19.074+0530] {dag.py:3954} INFO - Setting next_dagrun for example_task_group to 2025-09-08 00:00:00+00:00, run_after=2025-09-09 00:00:00+00:00
+[2025-09-09T10:19:19.177+0530] {processor.py:183} INFO - Processing /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py took 0.191 seconds
+[2025-09-09T10:20:23.626+0530] {processor.py:161} INFO - Started process (PID=6407) to work on /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2025-09-09T10:20:23.639+0530] {processor.py:830} INFO - Processing file /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2025-09-09T10:20:23.641+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:20:23.641+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2025-09-09T10:20:23.652+0530] {processor.py:840} INFO - DAG(s) 'example_task_group' retrieved from /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2025-09-09T10:20:23.676+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:20:23.676+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-09T10:20:23.700+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:20:23.699+0530] {dag.py:3954} INFO - Setting next_dagrun for example_task_group to 2025-09-08 00:00:00+00:00, run_after=2025-09-09 00:00:00+00:00
+[2025-09-09T10:20:23.797+0530] {processor.py:183} INFO - Processing /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py took 0.180 seconds

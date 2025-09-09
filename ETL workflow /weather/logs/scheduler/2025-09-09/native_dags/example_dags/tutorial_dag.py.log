@@ -1,0 +1,21 @@
+[2025-09-09T10:17:39.560+0530] {processor.py:161} INFO - Started process (PID=6228) to work on /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-09-09T10:17:39.561+0530] {processor.py:830} INFO - Processing file /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-09-09T10:17:39.564+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:17:39.563+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-09-09T10:17:39.591+0530] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-09-09T10:17:44.682+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:17:44.681+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-09T10:17:46.142+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:17:46.142+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-09-09T10:17:46.548+0530] {processor.py:183} INFO - Processing /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 6.996 seconds
+[2025-09-09T10:19:08.621+0530] {processor.py:161} INFO - Started process (PID=6321) to work on /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-09-09T10:19:08.622+0530] {processor.py:830} INFO - Processing file /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-09-09T10:19:08.625+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:19:08.624+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-09-09T10:19:08.633+0530] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-09-09T10:19:08.656+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:19:08.655+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-09T10:19:08.671+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:19:08.671+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-09-09T10:19:08.770+0530] {processor.py:183} INFO - Processing /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.158 seconds
+[2025-09-09T10:20:14.396+0530] {processor.py:161} INFO - Started process (PID=6395) to work on /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-09-09T10:20:14.411+0530] {processor.py:830} INFO - Processing file /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-09-09T10:20:14.414+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:20:14.413+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-09-09T10:20:14.422+0530] {processor.py:840} INFO - DAG(s) 'tutorial_dag' retrieved from /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-09-09T10:20:14.446+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:20:14.445+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-09T10:20:14.462+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:20:14.461+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-09-09T10:20:14.564+0530] {processor.py:183} INFO - Processing /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.177 seconds

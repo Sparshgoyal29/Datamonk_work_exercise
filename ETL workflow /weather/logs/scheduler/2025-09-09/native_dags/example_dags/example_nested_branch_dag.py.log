@@ -1,0 +1,14 @@
+[2025-09-09T10:18:31.814+0530] {processor.py:161} INFO - Started process (PID=6277) to work on /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-09-09T10:18:31.814+0530] {processor.py:830} INFO - Processing file /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2025-09-09T10:18:31.816+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:18:31.816+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-09-09T10:18:31.836+0530] {processor.py:840} INFO - DAG(s) 'example_nested_branch_dag' retrieved from /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-09-09T10:18:31.964+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:18:31.964+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-09T10:18:31.986+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:18:31.986+0530] {dag.py:3954} INFO - Setting next_dagrun for example_nested_branch_dag to 2025-09-08 00:00:00+00:00, run_after=2025-09-09 00:00:00+00:00
+[2025-09-09T10:18:32.297+0530] {processor.py:183} INFO - Processing /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.490 seconds
+[2025-09-09T10:19:44.259+0530] {processor.py:161} INFO - Started process (PID=6360) to work on /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-09-09T10:19:44.275+0530] {processor.py:830} INFO - Processing file /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2025-09-09T10:19:44.278+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:19:44.277+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-09-09T10:19:44.290+0530] {processor.py:840} INFO - DAG(s) 'example_nested_branch_dag' retrieved from /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2025-09-09T10:19:44.310+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:19:44.310+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-09T10:19:44.335+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:19:44.334+0530] {dag.py:3954} INFO - Setting next_dagrun for example_nested_branch_dag to 2025-09-08 00:00:00+00:00, run_after=2025-09-09 00:00:00+00:00
+[2025-09-09T10:19:44.425+0530] {processor.py:183} INFO - Processing /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.174 seconds

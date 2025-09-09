@@ -1,0 +1,36 @@
+[2025-09-09T10:18:10.261+0530] {processor.py:161} INFO - Started process (PID=6253) to work on /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-09-09T10:18:10.262+0530] {processor.py:830} INFO - Processing file /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-09-09T10:18:10.265+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:18:10.265+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-09-09T10:18:10.305+0530] {processor.py:840} INFO - DAG(s) 'example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator' retrieved from /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-09-09T10:18:10.446+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:18:10.446+0530] {dag.py:3096} INFO - Sync 3 DAGs
+[2025-09-09T10:18:10.473+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:18:10.473+0530] {dag.py:3954} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01 00:00:00+00:00, run_after=2022-01-01 00:00:00+00:00
+[2025-09-09T10:18:10.477+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:18:10.476+0530] {dag.py:3954} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-09-09T10:18:10.478+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:18:10.478+0530] {dag.py:3954} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-09-09T10:18:10.498+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:18:10.498+0530] {dag.py:3096} INFO - Sync 2 DAGs
+[2025-09-09T10:18:10.503+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:18:10.502+0530] {dag.py:3954} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-09-09T10:18:10.503+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:18:10.503+0530] {dag.py:3954} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-09-09T10:18:10.624+0530] {processor.py:183} INFO - Processing /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py took 0.370 seconds
+[2025-09-09T10:19:20.384+0530] {processor.py:161} INFO - Started process (PID=6335) to work on /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-09-09T10:19:20.393+0530] {processor.py:830} INFO - Processing file /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-09-09T10:19:20.395+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:19:20.395+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-09-09T10:19:20.421+0530] {processor.py:840} INFO - DAG(s) 'example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator' retrieved from /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-09-09T10:19:20.444+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:19:20.443+0530] {dag.py:3096} INFO - Sync 3 DAGs
+[2025-09-09T10:19:20.471+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:19:20.471+0530] {dag.py:3954} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01 00:00:00+00:00, run_after=2022-01-01 00:00:00+00:00
+[2025-09-09T10:19:20.475+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:19:20.475+0530] {dag.py:3954} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-09-09T10:19:20.476+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:19:20.476+0530] {dag.py:3954} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-09-09T10:19:20.483+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:19:20.483+0530] {dag.py:3096} INFO - Sync 2 DAGs
+[2025-09-09T10:19:20.488+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:19:20.488+0530] {dag.py:3954} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-09-09T10:19:20.489+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:19:20.488+0530] {dag.py:3954} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-09-09T10:19:20.582+0530] {processor.py:183} INFO - Processing /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py took 0.206 seconds
+[2025-09-09T10:20:25.010+0530] {processor.py:161} INFO - Started process (PID=6409) to work on /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-09-09T10:20:25.012+0530] {processor.py:830} INFO - Processing file /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-09-09T10:20:25.014+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:20:25.013+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-09-09T10:20:25.042+0530] {processor.py:840} INFO - DAG(s) 'example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator' retrieved from /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-09-09T10:20:25.060+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:20:25.060+0530] {dag.py:3096} INFO - Sync 3 DAGs
+[2025-09-09T10:20:25.084+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:20:25.083+0530] {dag.py:3954} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01 00:00:00+00:00, run_after=2022-01-01 00:00:00+00:00
+[2025-09-09T10:20:25.089+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:20:25.089+0530] {dag.py:3954} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-09-09T10:20:25.090+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:20:25.090+0530] {dag.py:3954} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-09-09T10:20:25.097+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:20:25.097+0530] {dag.py:3096} INFO - Sync 2 DAGs
+[2025-09-09T10:20:25.101+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:20:25.101+0530] {dag.py:3954} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-09-09T10:20:25.101+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:20:25.101+0530] {dag.py:3954} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-09-09T10:20:25.187+0530] {processor.py:183} INFO - Processing /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_subdag_operator.py took 0.185 seconds

@@ -1,0 +1,14 @@
+[2025-09-09T10:18:45.644+0530] {processor.py:161} INFO - Started process (PID=6291) to work on /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-09-09T10:18:45.645+0530] {processor.py:830} INFO - Processing file /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2025-09-09T10:18:45.647+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:18:45.647+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-09-09T10:18:46.046+0530] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-09-09T10:18:46.740+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:18:46.740+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-09T10:18:46.751+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:18:46.751+0530] {dag.py:3954} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2025-09-09T10:18:46.935+0530] {processor.py:183} INFO - Processing /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py took 1.299 seconds
+[2025-09-09T10:19:56.252+0530] {processor.py:161} INFO - Started process (PID=6373) to work on /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-09-09T10:19:56.253+0530] {processor.py:830} INFO - Processing file /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2025-09-09T10:19:56.256+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:19:56.255+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-09-09T10:19:56.377+0530] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-09-09T10:19:56.523+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:19:56.523+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-09T10:19:56.537+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:19:56.536+0530] {dag.py:3954} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2025-09-09T10:19:56.645+0530] {processor.py:183} INFO - Processing /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_dag_decorator.py took 0.403 seconds

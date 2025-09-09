@@ -1,0 +1,14 @@
+[2025-09-09T10:18:42.991+0530] {processor.py:161} INFO - Started process (PID=6289) to work on /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-09-09T10:18:42.992+0530] {processor.py:830} INFO - Processing file /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-09-09T10:18:42.994+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:18:42.993+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-09-09T10:18:43.031+0530] {processor.py:840} INFO - DAG(s) 'example_display_name' retrieved from /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-09-09T10:18:43.147+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:18:43.147+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-09T10:18:43.158+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:18:43.158+0530] {dag.py:3954} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-09-09T10:18:43.324+0530] {processor.py:183} INFO - Processing /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py took 0.340 seconds
+[2025-09-09T10:19:53.734+0530] {processor.py:161} INFO - Started process (PID=6371) to work on /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-09-09T10:19:53.736+0530] {processor.py:830} INFO - Processing file /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-09-09T10:19:53.738+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:19:53.737+0530] {dagbag.py:545} INFO - Filling up the DagBag from /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-09-09T10:19:53.746+0530] {processor.py:840} INFO - DAG(s) 'example_display_name' retrieved from /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py
+[2025-09-09T10:19:53.771+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:19:53.771+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-09-09T10:19:53.790+0530] {logging_mixin.py:188} INFO - [2025-09-09T10:19:53.789+0530] {dag.py:3954} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-09-09T10:19:53.899+0530] {processor.py:183} INFO - Processing /home/sparshgoyal/airflow_weather/venv/lib/python3.12/site-packages/airflow/example_dags/example_display_name.py took 0.175 seconds
