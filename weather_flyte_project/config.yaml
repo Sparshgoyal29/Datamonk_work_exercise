@@ -1,0 +1,15 @@
+admin:
+  endpoint: localhost:30080
+  insecure: true
+
+logger:
+  show-source: true
+  level: 1
+
+storage:
+  type: minio
+  connection:
+    access-key: minio
+    secret-key: miniostorage
+    endpoint: http://localhost:30084
+
